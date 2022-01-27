@@ -1,0 +1,16 @@
+D:\Projects\dev\dotNet\Payroll System\bin\Debug\Database1.mdf
+D:\Projects\dev\dotNet\Payroll System\bin\Debug\Database1_log.ldf
+D:\Projects\dev\dotNet\Payroll System\bin\Debug\Payroll System.exe.config
+D:\Projects\dev\dotNet\Payroll System\bin\Debug\Payroll System.exe
+D:\Projects\dev\dotNet\Payroll System\bin\Debug\Payroll System.pdb
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.csproj.AssemblyReference.cache
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.csproj.SuggestedBindingRedirects.cache
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll_System.MainForm.resources
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll_System.Properties.Resources.resources
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.csproj.GenerateResource.cache
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.csproj.CoreCompileInputs.cache
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.exe
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll System.pdb
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll_System.NewForm.resources
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll_System.EditForm.resources
+D:\Projects\dev\dotNet\Payroll System\obj\Debug\Payroll_System.DetailsForm.resources
